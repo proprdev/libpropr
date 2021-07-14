@@ -1,0 +1,9 @@
+Package: com.propr.libpropr
+Name: libpropr
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: An awesome library of some sort!!
+Maintainer: propr
+Author: propr
+Section: System
+Tag: role::developer
